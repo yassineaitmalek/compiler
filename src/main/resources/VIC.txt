@@ -1,0 +1,9 @@
+writec "coding"
+writec "is"
+writec "fun"
+loadc 1
+loadc 1
+add 
+store 0
+write 0
+end
